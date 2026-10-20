@@ -3,7 +3,7 @@ Retail Shopping Insights is a data analytics project exploring customer behaviou
 
 The objective is to transform raw retail data into meaningful insights that can support business decision-making, improve marketing strategies and inform inventory planning.
 
-**Dataset**
+**DATASET**
 
 The dataset contains 3,900 records and 18 columns covering customer demographics, purchases and shopping behaviour.
 
@@ -17,14 +17,14 @@ Key information includes:
 
 The dataset was obtained from the original creator's GitHub repository, referenced in the Acknowledgements section below.
 
-**Tools and Technologies**
+**TOOLS AND TECHNOLOGIES**
 
-Python - Data preparation and exploratory analysis
-Pandas - Data cleaning and manipulation
-Jupyter Notebook - Executing and documenting Python analysis
-MySQL - Querying data and answering business questions
-Power BI - Creating an interactive dashboard
-GitHub - Project documentation and portfolio presentation
+- Python - Data preparation and exploratory analysis
+- Pandas - Data cleaning and manipulation
+- Jupyter Notebook - Executing and documenting Python analysis
+- MySQL - Querying data and answering business questions
+- Power BI - Creating an interactive dashboard
+- GitHub - Project documentation and portfolio presentation
 
 
 
